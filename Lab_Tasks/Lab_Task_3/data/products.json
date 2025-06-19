@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Men Overall",
+    "price": 149.0,
+    "currency": "USD",
+    "image": "/assets/model1.jpg",
+    "colors": ["black", "dark-green", "brown", "dark-blue"]
+  },
+  {
+    "title": "Baggy Jeans",
+    "price": 149.0,
+    "currency": "USD",
+    "image": "/assets/model2.jpg",
+    "colors": ["black", "dark-green", "brown", "dark-blue"]
+  },
+  {
+    "title": "Adidas Sambas",
+    "price": 109.0,
+    "currency": "USD",
+    "image": "/assets/model3.jpg",
+    "colors": ["blue"]
+  }
+]
